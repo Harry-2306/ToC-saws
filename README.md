@@ -1,7 +1,5 @@
 # ToC-saws
 
-## ALERT(LOOKING FOR CONTRIBUTOR)
-- **Qualification**: should possess a copy of Ullman's book(Indian edition) and should be willing to contribute.
 
 ## About the repo(with a side of important instructions)
 - I think it's safe to say most of us are facing problems in finding problems(lmao) from Ullman and Sipser's books due to the lack of indian edition softcopies online.
